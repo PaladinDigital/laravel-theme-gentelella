@@ -1,6 +1,6 @@
 {
-  "name": "paladindigital/laravel-foundation",
-  "description": "A laravel theme with Foundation 6 loaded from CDN.",
+  "name": "paladindigital/laravel-theme-gentelella",
+  "description": "An installable theme for laravel, created by Colorlib and created into a package by PaladinDigital.",
   "keywords": [
     "laravel", "foundation", "laravel-community-theme"
   ],
