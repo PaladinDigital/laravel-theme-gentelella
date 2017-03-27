@@ -3,7 +3,7 @@
  * Theme Name: Gentelella
  * Author: Colorlib (Packaged by PaladinDigital)
  */
-$theme = 'themes::paladindigital.laravel-thmee-gentelella';
+$theme = 'themes::paladindigital.laravel-theme-gentelella';
 ?><!DOCTYPE html>
 <html>
 <head>
