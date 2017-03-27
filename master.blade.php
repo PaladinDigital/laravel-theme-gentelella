@@ -8,9 +8,9 @@ $theme = 'themes::paladindigital.laravel-thmee-gentelella';
 <html>
 <head>
 @yield('head')
-    @include($theme . '._meta')
+@include($theme . '._meta')
 @yield('styles')
-	@include($theme . '._styles')
+@include($theme . '._styles')
 </head>
 <body>
 @include($theme . '._nav')
@@ -22,6 +22,5 @@ $theme = 'themes::paladindigital.laravel-thmee-gentelella';
 @include($theme . '._footer')
 @include($theme . '._scripts')
 @yield('scripts')
-
 </body>
 </html>
