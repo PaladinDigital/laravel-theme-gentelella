@@ -10,6 +10,7 @@ $theme = 'themes::paladindigital.laravel-thmee-gentelella';
 @yield('head')
     @include($theme . '._meta')
 @yield('styles')
+	@include($theme . '._styles')
 </head>
 <body>
 @include($theme . '._nav')
@@ -19,6 +20,8 @@ $theme = 'themes::paladindigital.laravel-thmee-gentelella';
 @yield('widgets')
 </aside>
 @include($theme . '._footer')
+@include($theme . '._scripts')
 @yield('scripts')
+
 </body>
 </html>
